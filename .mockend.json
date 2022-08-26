@@ -1,0 +1,8 @@
+{
+  "Post": {
+    "id": { "int": {} },
+    "userId": { "int": {} },
+    "title": { "string": {} },
+    "body": { "string": {} }
+  }
+}
